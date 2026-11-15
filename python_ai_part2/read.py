@@ -1,0 +1,10 @@
+# f=open("file2.txt")
+# data=f.read()
+# print(data)
+# f.close()
+
+f=open("file2.txt","r")
+# print(f)
+data=f.read()
+print(data)
+f.close()

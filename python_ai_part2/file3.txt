@@ -1,0 +1,5 @@
+I am learning python.
+What are you learning?
+Which coding language you like most?
+Are you a web developer or software developer?
+I like to become AI engineer.
